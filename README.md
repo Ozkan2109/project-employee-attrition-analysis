@@ -15,7 +15,7 @@ This project analyzes HR data to understand what factors contribute to employee 
 - `attrition_model.ipynb` — Python notebook with ML model
 - `preview.png` — Screenshot of the dashboard
 
-## Key Metrics
+# Key Metrics
 
 - Total headcount
 - Turnover rate
@@ -23,7 +23,7 @@ This project analyzes HR data to understand what factors contribute to employee 
 - Attrition by gender, department, or job function
 - Performance score analysis
 
-## 👤 Author
+# Author
 
 Your Name  
 Özkara Özkan
