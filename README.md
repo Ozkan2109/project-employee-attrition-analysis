@@ -25,5 +25,4 @@ This project analyzes HR data to understand what factors contribute to employee 
 
 # Author
 
-Your Name  
 Özkara Özkan
